@@ -1,0 +1,21 @@
+{
+  "format": "unipackage-slice-pre1",
+  "noExports": true,
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "node_modules": "npm/node_modules",
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "tests.os.linux.x86_64/packages/buffertoolstests.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/buffertools:tests.js",
+      "sourceMap": "tests.os.linux.x86_64/packages/buffertoolstests.js.map"
+    }
+  ]
+}

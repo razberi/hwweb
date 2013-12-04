@@ -1,0 +1,41 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/buffertools/package.js": "5dd348ca5034700db389ba0fa353bb1c97ba735d"
+      },
+      "directories": []
+    },
+    "os.linux.x86_64.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/buffertools/package.js": "5dd348ca5034700db389ba0fa353bb1c97ba735d",
+        "/home/tee/Desktop/newraz/hwweb/packages/buffertools/buffertools.js": "7635a7f45484b82f7a7257c03a0378748cb63ae1"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/buffertools/package.js": "5dd348ca5034700db389ba0fa353bb1c97ba735d"
+      },
+      "directories": []
+    },
+    "tests.os.linux.x86_64.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/buffertools/package.js": "5dd348ca5034700db389ba0fa353bb1c97ba735d"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/tee/Desktop/newraz/hwweb/packages/buffertools/package.js": "5dd348ca5034700db389ba0fa353bb1c97ba735d"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "buffertools": "/home/tee/Desktop/newraz/hwweb/packages/buffertools",
+    "meteor": "/home/tee/.meteor/packages/meteor/088e5254e3"
+  },
+  "source": "/home/tee/Desktop/newraz/hwweb/packages/buffertools"
+}

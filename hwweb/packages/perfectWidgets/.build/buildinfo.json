@@ -1,0 +1,42 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/package.js": "80352ed026da5845e7cbeb66f18f55c245f765f2",
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/mscorlib.js": "4194666cf98b4acbab949e705a3fd234d0854c8b",
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/PerfectWidgets.js": "d1b2f8529258f6057fd641444954662b65f4cf76"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/package.js": "80352ed026da5845e7cbeb66f18f55c245f765f2"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/package.js": "80352ed026da5845e7cbeb66f18f55c245f765f2"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/package.js": "80352ed026da5845e7cbeb66f18f55c245f765f2"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets/package.js": "80352ed026da5845e7cbeb66f18f55c245f765f2"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "perfectWidgets": "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets",
+    "meteor": "/home/tee/.meteor/packages/meteor/088e5254e3"
+  },
+  "source": "/home/tee/Desktop/newraz/hwweb/packages/perfectWidgets"
+}

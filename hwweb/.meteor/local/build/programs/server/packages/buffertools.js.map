@@ -1,0 +1,1 @@
+{"version":3,"file":"/packages/buffertools.js","sources":["buffertools/buffertools.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,yC","sourcesContent":["BufferTools = Npm.require('buffertools');\n"]}

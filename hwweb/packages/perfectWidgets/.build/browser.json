@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/perfectWidgets.js",
+      "length": 481385,
+      "offset": 0,
+      "servePath": "/packages/perfectWidgets.js",
+      "sourceMap": "browser/packages/perfectWidgets.js.map"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "format": "unipackage-pre1",
+  "summary": "Added buffer tools to packages yay",
+  "slices": [
+    {
+      "name": "main",
+      "arch": "browser",
+      "path": "browser.json"
+    },
+    {
+      "name": "main",
+      "arch": "os.linux.x86_64",
+      "path": "os.linux.x86_64.json"
+    },
+    {
+      "name": "tests",
+      "arch": "browser",
+      "path": "tests.browser.json"
+    },
+    {
+      "name": "tests",
+      "arch": "os.linux.x86_64",
+      "path": "tests.os.linux.x86_64.json"
+    }
+  ],
+  "defaultSlices": {
+    "browser": [
+      "main"
+    ],
+    "os": [
+      "main"
+    ]
+  },
+  "testSlices": {
+    "browser": [
+      "tests"
+    ],
+    "os": [
+      "tests"
+    ]
+  },
+  "plugins": []
+}
